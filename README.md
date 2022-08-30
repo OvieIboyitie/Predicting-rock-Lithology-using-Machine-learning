@@ -9,8 +9,5 @@ Lithology indicates the differences in the mineral composition, organic matter c
 Having Identified the challenges associated with accurately predicting and identifying the lithology of a rock. My objective is to develop a model, accurately and precisely predicts lithology of a rock using the location of the well, the well depth and the well logs. A model that eliminates the need of going subsurface to get physical sample, a model that
 * Cost effective
 * Fast and optimizes time
-![image](https://user-images.githubusercontent.com/107460031/187429558-93c34657-8d95-4cb3-b05d-d7f43474a307.png)
 * Accurate and Precise
-![image](https://user-images.githubusercontent.com/107460031/187429636-e25bf3a0-5027-466b-831b-e52dd6efb8dd.png)
-
 
