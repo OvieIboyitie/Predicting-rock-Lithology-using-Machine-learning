@@ -6,4 +6,8 @@ Lithology indicates the differences in the mineral composition, organic matter c
 * Acoustic velocity which is primarily a function of the rock matrix can be used to identify different lithologies and for stratigraphic correlations. However, the ratio the compressional velocity to shear velocity which is supposed to be an effective indicator of lithology is affected by formation anisotropy
 
 
-  
+## What is my objective? What am I offering?
+Having Identified the challenges associated with accurately predicting and identifying the lithology of a rock. My objective is to develop a model, accurately and precisely predicts lithology of a rock using the location of the well, the well depth and the well logs. A model that eliminates the need of going subsurface to get physical sample, a model that
+* Saves cost
+* Optimizes time
+
